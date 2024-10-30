@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-08-14 19:08+0200\n"
+"PO-Revision-Date: 2019-08-14 19:09+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x;_esc_attr\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-stb_mami-admin.php:64 trunk/admin/class-stb_mami-admin.php:64
+#, php-format
+msgid ""
+"Move Admin Menu Items: Go to the <a href=\"%s\">settings-page</a> and select "
+"which menu items you want to move to the admin-menu."
+msgstr ""
+"Move Admin Menu Items: Go to the <a href=\"%s\">settings-page</a> and select "
+"which menu items you want to move to the admin-menu."
+
+#: admin/class-stb_mami-admin.php:93 admin/class-stb_mami-admin.php:94
+#: admin/partials/stb_mami-admin-display.php:3
+#: trunk/admin/class-stb_mami-admin.php:93
+#: trunk/admin/class-stb_mami-admin.php:94
+#: trunk/admin/partials/stb_mami-admin-display.php:3
+msgid "Admin Menu"
+msgstr "Admin Menu"
+
+#: admin/class-stb_mami-admin.php:104 admin/class-stb_mami-admin.php:105
+#: admin/class-stb_mami-admin.php:207 trunk/admin/class-stb_mami-admin.php:104
+#: trunk/admin/class-stb_mami-admin.php:105
+#: trunk/admin/class-stb_mami-admin.php:207
+msgid "Settings"
+msgstr "Settings"
+
+#: admin/class-stb_mami-admin.php:217 trunk/admin/class-stb_mami-admin.php:217
+msgid "Menu Items"
+msgstr "Menu Items"
+
+#: admin/class-stb_mami-admin.php:269 trunk/admin/class-stb_mami-admin.php:269
+msgid "Select the menu items you want to move to the Admin menu page."
+msgstr "Select the menu items you want to move to the Admin menu page."
+
+#: admin/partials/stb_mami-admin-display.php:32
+#, php-format
+msgid ""
+"Go to the <a href=\"%s\">settings-page</a> to select which menu items you "
+"want to move here."
+msgstr ""
+"Go to the <a href=\"%s\">settings-page</a> to select which menu items you "
+"want to move here."
+
+#: includes/class-stb_mami-activator.php:46
+#, php-format
+msgid ""
+"This plugin cannot be activated because it requires a PHP version greater "
+"than %1$s. Your PHP version can be updated by your hosting company."
+msgstr ""
+"This plugin cannot be activated because it requires a PHP version greater "
+"than %1$s. Your PHP version can be updated by your hosting company."
+
+#: includes/class-stb_mami-activator.php:49
+#: includes/class-stb_mami-activator.php:61
+#: trunk/includes/class-stb_mami-activator.php:49
+#: trunk/includes/class-stb_mami-activator.php:61
+msgid "go back"
+msgstr "go back"
+
+#: includes/class-stb_mami-activator.php:58
+#, php-format
+msgid ""
+"This plugin cannot be activated because it requires a WordPress version "
+"greater than %1$s. Please go to Dashboard -> Updates to gran the latest "
+"version of WordPress."
+msgstr ""
+"This plugin cannot be activated because it requires a WordPress version "
+"greater than %1$s. Please go to Dashboard -> Updates to gran the latest "
+"version of WordPress."
+
+#: trunk/admin/partials/stb_mami-admin-display.php:32
+#, php-format
+msgid ""
+"Go to the <a href=\"%s\">settings-page</a> to select which menu items you "
+"want to display here."
+msgstr ""
+"Go to the <a href=\"%s\">settings-page</a> to select which menu items you "
+"want to display here."
+
+#: trunk/includes/class-stb_mami-activator.php:46
+#, php-format
+msgid ""
+"This plugin can not be activated because it requires a PHP version greater "
+"than %1$s. Your PHP version can be updated by your hosting company."
+msgstr ""
+"This plugin can not be activated because it requires a PHP version greater "
+"than %1$s. Your PHP version can be updated by your hosting company."
+
+#: trunk/includes/class-stb_mami-activator.php:58
+#, php-format
+msgid ""
+"This plugin can not be activated because it requires a WordPress version "
+"greater than %1$s. Please go to Dashboard -> Updates to gran the latest "
+"version of WordPress."
+msgstr ""
+"This plugin can not be activated because it requires a WordPress version "
+"greater than %1$s. Please go to Dashboard -> Updates to gran the latest "
+"version of WordPress."

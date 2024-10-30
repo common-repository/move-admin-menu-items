@@ -1,0 +1,63 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-08-10 15:04+0200\n"
+"PO-Revision-Date: 2019-08-10 11:34+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x;_esc_attr\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-stb_sami-admin.php:70 admin/class-stb_sami-admin.php:71
+#: admin/partials/stb_sami-admin-display.php:3
+msgid "Admin Menu"
+msgstr ""
+
+#: admin/class-stb_sami-admin.php:81 admin/class-stb_sami-admin.php:82
+#: admin/class-stb_sami-admin.php:178
+msgid "Settings"
+msgstr ""
+
+#: admin/class-stb_sami-admin.php:188
+msgid "Menu Items"
+msgstr ""
+
+#: admin/class-stb_sami-admin.php:240
+msgid ""
+"Select which items you would like to move from admin menubar to the admin-"
+"settings page."
+msgstr ""
+
+#: admin/partials/stb_sami-admin-display.php:30
+msgid ""
+"Go to the settings page of the plugin to select which menu items you want to "
+"move."
+msgstr ""
+
+#: includes/class-stb_sami-activator.php:43
+#, php-format
+msgid ""
+"This plugin can not be activated because it requires a PHP version greater "
+"than %1$s. Your PHP version can be updated by your hosting company."
+msgstr ""
+
+#: includes/class-stb_sami-activator.php:46
+#: includes/class-stb_sami-activator.php:58
+msgid "go back"
+msgstr ""
+
+#: includes/class-stb_sami-activator.php:55
+#, php-format
+msgid ""
+"This plugin can not be activated because it requires a WordPress version "
+"greater than %1$s. Please go to Dashboard -> Updates to gran the latest "
+"version of WordPress."
+msgstr ""
